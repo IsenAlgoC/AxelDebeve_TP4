@@ -1,0 +1,4 @@
+﻿  Exercice5.c
+C:\Users\Axel\source\repos\TP4\Exercice5\Exercice5.c(15,20): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\Axel\source\repos\TP4\Exercice5\Exercice5.c(24,36): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  Exercice5.vcxproj -> C:\Users\Axel\source\repos\TP4\Debug\Exercice5.exe

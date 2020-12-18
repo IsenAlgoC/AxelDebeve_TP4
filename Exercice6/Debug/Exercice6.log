@@ -1,0 +1,4 @@
+﻿  Exercice6.c
+C:\Users\Axel\source\repos\TP4\Exercice6\Exercice6.c(10,18): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\Axel\source\repos\TP4\Exercice6\Exercice6.c(21,6): warning C4101: 'TableauPosition' : variable locale non référencée
+  Exercice6.vcxproj -> C:\Users\Axel\source\repos\TP4\Debug\Exercice6.exe
